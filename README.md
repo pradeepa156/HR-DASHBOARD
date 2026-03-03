@@ -1,6 +1,5 @@
 # HR ANALYTICS DASHBOARD
 
-## Final Year Project Report
 
 ---
 
